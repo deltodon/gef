@@ -9,6 +9,5 @@ var searchData=
   ['pointlight',['PointLight',['../db/d7c/classgef_1_1_point_light.html',1,'gef']]],
   ['polyvertdata',['PolyVertData',['../db/d99/structgef_1_1_poly_vert_data.html',1,'gef']]],
   ['primitive',['Primitive',['../de/d11/classgef_1_1_primitive.html',1,'gef']]],
-  ['primitivedata',['PrimitiveData',['../dc/da6/structgef_1_1_primitive_data.html',1,'gef']]],
-  ['primitivedata',['PrimitiveData',['../da/dae/structgef_1_1_default3_d_shader_1_1_primitive_data.html',1,'gef::Default3DShader']]]
+  ['primitivedata',['PrimitiveData',['../dc/da6/structgef_1_1_primitive_data.html',1,'gef::PrimitiveData'],['../da/dae/structgef_1_1_default3_d_shader_1_1_primitive_data.html',1,'gef::Default3DShader::PrimitiveData'],['../d2/df8/structgef_1_1_default3_d_skinning_shader_1_1_primitive_data.html',1,'gef::Default3DSkinningShader::PrimitiveData']]]
 ];

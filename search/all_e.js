@@ -14,6 +14,5 @@ var searchData=
   ['polyvertdata',['PolyVertData',['../db/d99/structgef_1_1_poly_vert_data.html',1,'gef']]],
   ['position',['position',['../da/dd5/classgef_1_1_sprite.html#ad7e33fb50c656d53a2d4c4365d06baaa',1,'gef::Sprite::position()'],['../d7/d0d/classgef_1_1_sphere.html#ad0bb268fd9397e89c4b877870e4da9fb',1,'gef::Sphere::position()']]],
   ['primitive',['Primitive',['../de/d11/classgef_1_1_primitive.html',1,'gef']]],
-  ['primitivedata',['PrimitiveData',['../da/dae/structgef_1_1_default3_d_shader_1_1_primitive_data.html',1,'gef::Default3DShader']]],
-  ['primitivedata',['PrimitiveData',['../dc/da6/structgef_1_1_primitive_data.html',1,'gef']]]
+  ['primitivedata',['PrimitiveData',['../dc/da6/structgef_1_1_primitive_data.html',1,'gef::PrimitiveData'],['../da/dae/structgef_1_1_default3_d_shader_1_1_primitive_data.html',1,'gef::Default3DShader::PrimitiveData'],['../d2/df8/structgef_1_1_default3_d_skinning_shader_1_1_primitive_data.html',1,'gef::Default3DSkinningShader::PrimitiveData']]]
 ];

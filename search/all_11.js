@@ -31,10 +31,8 @@ var searchData=
   ['sonycontroller',['SonyController',['../de/d41/classgef_1_1_sony_controller.html',1,'gef']]],
   ['sonycontrollerinputmanager',['SonyControllerInputManager',['../da/d8e/classgef_1_1_sony_controller_input_manager.html',1,'gef']]],
   ['sonycontrollerinputmanagerd3d11',['SonyControllerInputManagerD3D11',['../de/d91/classgef_1_1_sony_controller_input_manager_d3_d11.html',1,'gef']]],
-  ['sphere',['Sphere',['../d7/d0d/classgef_1_1_sphere.html#a65a2be146c6abc834708a764d1d22e18',1,'gef::Sphere::Sphere()'],['../d7/d0d/classgef_1_1_sphere.html#ae36a5b96d33e2af04f6ddb6bafc534da',1,'gef::Sphere::Sphere(const Vector4 &amp;position, const float radius)'],['../d7/d0d/classgef_1_1_sphere.html#a3660d68c4a4b208906c29a2b1a69fa28',1,'gef::Sphere::Sphere(const Aabb &amp;aabb)']]],
-  ['sphere',['Sphere',['../d7/d0d/classgef_1_1_sphere.html',1,'gef']]],
-  ['sprite',['Sprite',['../da/dd5/classgef_1_1_sprite.html',1,'gef']]],
-  ['sprite',['Sprite',['../da/dd5/classgef_1_1_sprite.html#a24fbf5e5f768aa92a64613b7d4ba31a6',1,'gef::Sprite']]],
+  ['sphere',['Sphere',['../d7/d0d/classgef_1_1_sphere.html',1,'gef::Sphere'],['../d7/d0d/classgef_1_1_sphere.html#a65a2be146c6abc834708a764d1d22e18',1,'gef::Sphere::Sphere()'],['../d7/d0d/classgef_1_1_sphere.html#ae36a5b96d33e2af04f6ddb6bafc534da',1,'gef::Sphere::Sphere(const Vector4 &amp;position, const float radius)'],['../d7/d0d/classgef_1_1_sphere.html#a3660d68c4a4b208906c29a2b1a69fa28',1,'gef::Sphere::Sphere(const Aabb &amp;aabb)']]],
+  ['sprite',['Sprite',['../da/dd5/classgef_1_1_sprite.html',1,'gef::Sprite'],['../da/dd5/classgef_1_1_sprite.html#a24fbf5e5f768aa92a64613b7d4ba31a6',1,'gef::Sprite::Sprite()']]],
   ['spriterenderer',['SpriteRenderer',['../dd/dc1/classgef_1_1_sprite_renderer.html',1,'gef']]],
   ['spriterendererd3d11',['SpriteRendererD3D11',['../d9/d68/classgef_1_1_sprite_renderer_d3_d11.html',1,'gef']]],
   ['stringidtable',['StringIdTable',['../dd/d89/classgef_1_1_string_id_table.html',1,'gef']]]

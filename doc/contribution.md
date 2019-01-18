@@ -2,17 +2,22 @@
 
 
 
-### Contributing Code
+### Code
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum et libero blandit semper. Nullam nulla sem, finibus non nunc at, tempor elementum nunc. Sed euismod, lacus a mollis consectetur, sapien orci placerat augue, id sodales nisl risus a urna. Donec enim nunc, faucibus id tincidunt feugiat, facilisis ut neque. Donec molestie finibus leo, quis eleifend erat. Sed gravida neque eget neque mattis pulvinar. Etiam dictum sem sodales purus dapibus suscipit. Proin non ex tristique, tincidunt nisi vel, facilisis nibh. Etiam molestie accumsan orci non imperdiet.
+Follows Google style guide
 
 
-### Contributing Documentation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum et libero blandit semper. Nullam nulla sem, finibus non nunc at, tempor elementum nunc. Sed euismod, lacus a mollis consectetur, sapien orci placerat augue, id sodales nisl risus a urna. Donec enim nunc, faucibus id tincidunt feugiat, facilisis ut neque. Donec molestie finibus leo, quis eleifend erat. Sed gravida neque eget neque mattis pulvinar. Etiam dictum sem sodales purus dapibus suscipit. Proin non ex tristique, tincidunt nisi vel, facilisis nibh. Etiam molestie accumsan orci non imperdiet.
+### Documentation for GEF
 
+This is excerpt from: [Writing documentation for OpenCV][OpenCV Doxygen]
 
 ### Wish List
 
 * Feature 1
 * Feature 2
+
+
+
+<!-- invisible references list -->
+[OpenCV Doxygen]: https://docs.opencv.org/4.0.1/d4/db1/tutorial_documentation.html

@@ -1,0 +1,9 @@
+<map id="gef::Default3DSkinningShader" name="gef::Default3DSkinningShader">
+<area shape="rect" id="node2" href="$d4/dcd/classgef_1_1_shader.html" title="gef::Shader" alt="" coords="643,7,731,33"/>
+<area shape="rect" id="node3" href="$d4/d57/classgef_1_1_shader_interface.html" title="gef::ShaderInterface" alt="" coords="271,7,409,33"/>
+<area shape="rect" id="node4" href="$d6/dfa/classgef_1_1_matrix44.html" title="gef::Matrix44" alt="" coords="291,100,389,127"/>
+<area shape="rect" id="node6" href="$d0/dc8/structgef_1_1_default3_d_skinning_shader_1_1_mesh_data.html" title="gef::Default3DSkinningShader\l::MeshData" alt="" coords="589,130,784,171"/>
+<area shape="rect" id="node5" href="$da/d4d/classgef_1_1_vector4.html" title="gef::Vector4" alt="" coords="5,181,97,208"/>
+<area shape="rect" id="node7" href="$d2/df8/structgef_1_1_default3_d_skinning_shader_1_1_primitive_data.html" title="gef::Default3DSkinningShader\l::PrimitiveData" alt="" coords="243,243,437,285"/>
+<area shape="rect" id="node8" href="$de/dd5/classgef_1_1_texture.html" title="gef::Texture" alt="" coords="6,261,97,288"/>
+</map>

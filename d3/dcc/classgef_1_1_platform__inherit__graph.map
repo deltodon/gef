@@ -1,0 +1,4 @@
+<map id="gef::Platform" name="gef::Platform">
+<area shape="rect" id="node2" href="$dc/d3e/classgef_1_1_platform_d3_d11.html" title="gef::PlatformD3D11" alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$da/de0/classgef_1_1_platform_win32_null_renderer.html" title="gef::PlatformWin32NullRenderer" alt="" coords="164,80,371,107"/>
+</map>

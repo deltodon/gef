@@ -1,0 +1,6 @@
+<map id="gef::InputManager" name="gef::InputManager">
+<area shape="rect" id="node2" href="$d0/da0/classgef_1_1_keyboard.html" title="gef::Keyboard" alt="" coords="5,102,108,129"/>
+<area shape="rect" id="node3" href="$da/d8e/classgef_1_1_sony_controller_input_manager.html" title="gef::SonyControllerInput\lManager" alt="" coords="133,95,293,136"/>
+<area shape="rect" id="node4" href="$de/d41/classgef_1_1_sony_controller.html" title="gef::SonyController" alt="" coords="147,5,279,32"/>
+<area shape="rect" id="node5" href="$dc/dbd/classgef_1_1_touch_input_manager.html" title="gef::TouchInputManager" alt="" coords="317,102,477,129"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="gef::Platform" name="gef::Platform">
+<area shape="rect" id="node2" href="$dc/d9c/classgef_1_1_render_target.html" title="gef::RenderTarget" alt="" coords="123,95,247,121"/>
+<area shape="rect" id="node3" href="$de/dd5/classgef_1_1_texture.html" title="gef::Texture" alt="" coords="11,5,102,32"/>
+<area shape="rect" id="node4" href="$db/dde/classgef_1_1_depth_buffer.html" title="gef::DepthBuffer" alt="" coords="271,95,386,121"/>
+<area shape="rect" id="node5" href="$dc/dbd/classgef_1_1_touch_input_manager.html" title="gef::TouchInputManager" alt="" coords="410,95,570,121"/>
+<area shape="rect" id="node6" href="$dc/d33/classgef_1_1_colour.html" title="gef::Colour" alt="" coords="604,95,688,121"/>
+</map>

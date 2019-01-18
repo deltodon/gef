@@ -1,0 +1,12 @@
+<map id="gef::InputManagerD3D11" name="gef::InputManagerD3D11">
+<area shape="rect" id="node2" href="$d0/df8/classgef_1_1_input_manager.html" title="gef::InputManager" alt="" coords="595,80,720,107"/>
+<area shape="rect" id="node3" href="$d0/da0/classgef_1_1_keyboard.html" title="gef::Keyboard" alt="" coords="279,5,382,32"/>
+<area shape="rect" id="node4" href="$da/d8e/classgef_1_1_sony_controller_input_manager.html" title="gef::SonyControllerInput\lManager" alt="" coords="251,57,411,98"/>
+<area shape="rect" id="node5" href="$de/d41/classgef_1_1_sony_controller.html" title="gef::SonyController" alt="" coords="5,64,137,91"/>
+<area shape="rect" id="node6" href="$dc/dbd/classgef_1_1_touch_input_manager.html" title="gef::TouchInputManager" alt="" coords="251,128,411,155"/>
+<area shape="rect" id="node7" href="$d4/df8/classgef_1_1_platform.html" title="gef::Platform" alt="" coords="610,224,705,251"/>
+<area shape="rect" id="node8" href="$dc/d9c/classgef_1_1_render_target.html" title="gef::RenderTarget" alt="" coords="269,253,393,280"/>
+<area shape="rect" id="node9" href="$de/dd5/classgef_1_1_texture.html" title="gef::Texture" alt="" coords="26,216,117,243"/>
+<area shape="rect" id="node10" href="$db/dde/classgef_1_1_depth_buffer.html" title="gef::DepthBuffer" alt="" coords="273,304,388,331"/>
+<area shape="rect" id="node11" href="$dc/d33/classgef_1_1_colour.html" title="gef::Colour" alt="" coords="289,359,373,385"/>
+</map>
